@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <body>
          <div type="order">
-            <pb facs="tcp:039223_0000_1013F93AA4866720"/>
-            <pb facs="tcp:039223_0001_1013F93F879BA5A8" rendition="simple:additions"/>
+            <pb facs="unknown:039223_0000_1013F93AA4866720"/>
+            <pb facs="unknown:039223_0001_1013F93F879BA5A8"
+                rendition="simple:additions"/>
             <head>AT A GENERAL COURT ON ADJOURNMENT, Held at <hi>Boſton,</hi>
                <date>March, <hi>14. 1682.</hi>
                </date>
